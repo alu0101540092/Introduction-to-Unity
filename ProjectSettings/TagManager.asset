@@ -8,6 +8,9 @@ TagManager:
   - Sphere
   - Capsule
   - Terrain
+  - CinemachineTarget
+  - Light
+  - House
   layers:
   - Default
   - TransparentFX
